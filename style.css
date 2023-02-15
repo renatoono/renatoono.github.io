@@ -11,6 +11,8 @@ h1 { background-color: black;
 
 .full-name { color: azure;
     text-decoration: none;
+    font-size: 30px
+  
 }
 
 .full-name:hover{ color: rgb(9, 179, 17);
@@ -18,6 +20,8 @@ h1 { background-color: black;
 
 .about-me { color: azure;
     text-decoration: none;
+    font-size: 18px;
+    padding: 0px 0px 0px 300px;
 }
 
 .about-me:hover{ color: rgb(9, 179, 17);
@@ -25,6 +29,8 @@ h1 { background-color: black;
 
 .my-skills{ color: azure;
     text-decoration: none;
+    font-size: 18px;
+    padding:0px 12px 0px 12px;
 }
 
 .my-skills:hover{ color: gold;
@@ -32,6 +38,8 @@ h1 { background-color: black;
 
 .contact-me{ color: azure;
     text-decoration: none;
+    font-size: 18px;
+    padding: ;
 }
 
 .contact-me:hover{ color: crimson;
