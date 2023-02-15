@@ -1,0 +1,41 @@
+h1 { background-color: black;
+    width: 100%;
+    font-size: 180%;
+    font-family: sans-serif;
+    color: azure;
+    text-decoration: none;
+    margin: 0;
+    padding: 0.9% 1.5%;
+
+}
+
+.full-name { color: azure;
+    text-decoration: none;
+}
+
+.full-name:hover{ color: rgb(9, 179, 17);
+}
+
+.about-me { color: azure;
+    text-decoration: none;
+}
+
+.about-me:hover{ color: rgb(9, 179, 17);
+}
+
+.my-skills{ color: azure;
+    text-decoration: none;
+}
+
+.my-skills:hover{ color: gold;
+}
+
+.contact-me{ color: azure;
+    text-decoration: none;
+}
+
+.contact-me:hover{ color: crimson;
+}
+
+body { margin: 0%;
+}
